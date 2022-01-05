@@ -1,4 +1,4 @@
-# QuickTFTP Pro v3.8 (Full version)
+# QuickTFTP Desktop Pro v3.8 (Full version)
 
 I am releasing the source code of the popular shareware TFTP application first released back in 2004.
 
